@@ -45,7 +45,7 @@ main {
 
 .hero {
     text-align: center;
-    background-color: #E2F7E1;
+    background-color: #efeba8;
     padding: 2rem;
 }
 
@@ -88,7 +88,7 @@ button:hover {
 }
 
 .carbon-calculator, .contact {
-    background-color: #e2f7e1;
+    background-color: #efeba8;
     padding: 20px;
     margin: 20px 0;
     border-radius: 8px;
