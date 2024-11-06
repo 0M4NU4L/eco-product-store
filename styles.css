@@ -52,12 +52,13 @@ main {
 
 .hero {
     text-align: center;
-    background-color: #D9CAB3;
+    background-color: #efeba8;
     padding: 2rem;
 }
 
 h3 {
-    color: white;
+    color: black;
+    font-size: large;
 }
 
 .product-list {
@@ -87,8 +88,8 @@ h3 {
 
 button {
     padding: 10px 15px;
-    background-color: #D9A673;
-    color: white;
+    background-color: #efeba8;
+    color: black;
     border: none;
     cursor: pointer;
     border-radius: 4px;
