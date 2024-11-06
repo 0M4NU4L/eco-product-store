@@ -113,6 +113,10 @@ button:hover {
     border-radius: 8px;
 }
 
+.contact-form {
+    display: flex;
+    align-items: center;
+}
 .contact h3 {
     color: black;
 }
