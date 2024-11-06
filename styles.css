@@ -96,7 +96,6 @@ button:hover {
 
 form {
     display: flex;
-    margin: 70px;
     border: 10px;
     flex-direction: column;
 }
