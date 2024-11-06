@@ -116,11 +116,9 @@ textarea {
 }
 
 footer {
-    height: 20px;
     display: flex;
     justify-content: center;
     text-align: center;
     background-color: #4CAF50;
     color: white;
-    padding: 1rem;
 }
