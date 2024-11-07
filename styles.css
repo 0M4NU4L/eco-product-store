@@ -113,10 +113,6 @@ button:hover {
     border-radius: 8px;
 }
 
-.contact-form {
-    display: flex;
-    align-items: center;
-}
 .contact h3 {
     color: black;
 }
@@ -124,6 +120,13 @@ button:hover {
 form {
     display: flex;
     flex-direction: column;
+}
+
+.result {
+    margin: 10px 0 5px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 4px;
 }
 
 label {
